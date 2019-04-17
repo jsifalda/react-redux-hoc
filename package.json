@@ -1,0 +1,31 @@
+{
+  "name": "react-redux-hoc",
+  "version": "1.0.0",
+  "description": "Sugar syntax for your react redux connect",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jsifalda/react-redux-hoc.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "connect"
+  ],
+  "author": "@jsifalda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsifalda/react-redux-hoc/issues"
+  },
+  "homepage": "https://github.com/jsifalda/react-redux-hoc#readme",
+  "dependencies": {
+    "is-plain-object": "^2.0.4",
+    "ramda": "^0.26.1"
+  },
+  "peerDependencies": {
+    "react-redux": "*"
+  }
+}
